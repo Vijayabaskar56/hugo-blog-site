@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vijayabaskar@[society]</title>
+    <link>https://blog.vijayabaskar.xyz/posts/</link>
+    <description>Recent content in Posts on Vijayabaskar@[society]</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jun 2024 00:19:07 +0530</lastBuildDate>
+    <atom:link href="https://blog.vijayabaskar.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 2 of nights and weekends</title>
+      <link>https://blog.vijayabaskar.xyz/posts/day_2/</link>
+      <pubDate>Fri, 21 Jun 2024 00:19:07 +0530</pubDate>
+      <guid>https://blog.vijayabaskar.xyz/posts/day_2/</guid>
+      <description>It&amp;rsquo;s day two , and like I said yestarday I wanted to document my journey, so here I am,&#xA;I started to working on my app and what I have done today is just build the navigation of the app, and decided how many screens it going to have and what are the main thing to focus on.&#xA;Screen 1 : list of Songs alogn with the search bar Screen 2 : creat room discover rooms, Screen 3 : account</description>
+    </item>
+    <item>
+      <title>Kick off nights and weekends S5</title>
+      <link>https://blog.vijayabaskar.xyz/posts/kick_off_nights_and_weekends_s5/</link>
+      <pubDate>Wed, 19 Jun 2024 23:41:57 +0530</pubDate>
+      <guid>https://blog.vijayabaskar.xyz/posts/kick_off_nights_and_weekends_s5/</guid>
+      <description>I am participating in the Nights and Weekends Season 5 of BuildSpace, so this blog is about:&#xA;What the heck is that? Why am I excited about it? What is the plan and other stuff. BuildSpace is a home for people bringing their wildest ideas to life, and every year they conduct an event named Nights and Weekends. The general idea behind the event is that anybody can join with an idea of their own and bring it to life over a six-week period.</description>
+    </item>
+    <item>
+      <title>OWASP API Security</title>
+      <link>https://blog.vijayabaskar.xyz/posts/owasp_api_security/</link>
+      <pubDate>Wed, 12 Jun 2024 15:30:36 +0530</pubDate>
+      <guid>https://blog.vijayabaskar.xyz/posts/owasp_api_security/</guid>
+      <description>I am preparing for an interview and noticed that the job description mentions knowledge of OWASP is required. Since I didn&amp;rsquo;t know what it was, I did what any reasonable person would do—I googled it. Googling only gives you a surface level of information, and for me, that’s never enough. I try to reach at least a 5/10 level of understanding when I learn any subject, and that’s when I feel satisfied.</description>
+    </item>
+    <item>
+      <title>Power Up Your Windows PowerShell</title>
+      <link>https://blog.vijayabaskar.xyz/posts/powerup_your_powershell/</link>
+      <pubDate>Thu, 30 May 2024 13:34:01 +0530</pubDate>
+      <guid>https://blog.vijayabaskar.xyz/posts/powerup_your_powershell/</guid>
+      <description>I recently bought a new laptop which comes with Windows preinstalled on it, but I am an avid Linux user. I love the flexibility and freedom that Linux provides, and I have my fair bit of experience with various Linux distros, from Ubuntu, Zorin, Kali to Arch.&#xA;So my first thought after getting my new laptop was to switch to Arch, but I wanted to give Windows a try before switching.</description>
+    </item>
+    <item>
+      <title>DNS Demystified</title>
+      <link>https://blog.vijayabaskar.xyz/posts/dns_demystififed/</link>
+      <pubDate>Mon, 27 May 2024 22:20:11 +0530</pubDate>
+      <guid>https://blog.vijayabaskar.xyz/posts/dns_demystififed/</guid>
+      <description>Introduction Setting up my blog and configuring my domain introduced me to the fascinating world of the Domain Name System (DNS). As I delved deeper, I realized how crucial DNS is to the functioning of the internet, yet it often goes unnoticed. This post aims to demystify DNS from a beginner&amp;rsquo;s perspective, sharing what I&amp;rsquo;ve learned about this robust system that underpins the web.&#xA;“DNS is kind of the hamster under the hood that drives the Internet.</description>
+    </item>
+    <item>
+      <title>My Own Corner of the Internet</title>
+      <link>https://blog.vijayabaskar.xyz/posts/first-post/</link>
+      <pubDate>Sat, 25 May 2024 23:26:50 +0530</pubDate>
+      <guid>https://blog.vijayabaskar.xyz/posts/first-post/</guid>
+      <description>My Own Corner of the Internet This is My first Blog in my personal site, so it not for you if you are reading this , PLEASE DON&amp;rsquo;T READ THIS..!!!&#xA;This is for Myself to read in future, sometime from now, so I wanted to leave a message here,&#xA;Hey man, you always be the Consumer and not a creater, who is closed, and doesn&amp;rsquo;t share any thing with anyone, or share what you doing and what you are planning, what on your mind, and what you perceptive about something, stuffs like that and because you have this feeling of what it doing to do any way, is my perceptive really even matter, and what changes does it going to bring.</description>
+    </item>
+  </channel>
+</rss>

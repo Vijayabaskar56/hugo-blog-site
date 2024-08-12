@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on Vijayabaskar@[society]</title>
+    <link>https://blog.vijayabaskar.xyz/photos/</link>
+    <description>Recent content in Photos on Vijayabaskar@[society]</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 10:46:38 +0530</lastBuildDate>
+    <atom:link href="https://blog.vijayabaskar.xyz/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The_idea</title>
+      <link>https://blog.vijayabaskar.xyz/photos/theidea/</link>
+      <pubDate>Thu, 20 Jun 2024 10:46:38 +0530</pubDate>
+      <guid>https://blog.vijayabaskar.xyz/photos/theidea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Myself, 😁</title>
+      <link>https://blog.vijayabaskar.xyz/photos/myself/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.vijayabaskar.xyz/photos/myself/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
